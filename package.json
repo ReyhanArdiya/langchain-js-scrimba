@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@langchain/community": "^0.2.22",
+    "@langchain/google-genai": "^0.0.23",
+    "@langchain/openai": "^0.2.5",
+    "@supabase/supabase-js": "^2.45.0",
+    "langchain": "^0.2.12"
+  },
+  "type": "module"
+}
